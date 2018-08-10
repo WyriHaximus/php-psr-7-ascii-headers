@@ -1,6 +1,6 @@
 {
     "name": "wyrihaximus/psr-7-ascii-headers",
-    "description": "Functions to add ASCII art to PSR-7 message headers",
+    "description": "Add ASCII art to PSR-7 message headers",
     "license": "MIT",
     "authors": [
         {
