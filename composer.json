@@ -12,7 +12,7 @@
         "php": "^7.1"
     },
     "require-dev": {
-        "api-clients/test-utilities": "^5.2",
+        "api-clients/test-utilities": "^5.4",
         "ringcentral/psr7": "^1.2"
     },
     "autoload": {
